@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Shape of You",
+        "artists": ["Ed Sheeran"],
+        "album": " (Divide)"
+    },
+    {
+        "title": "Rolling in the Deep",
+        "artists": ["Adele"],
+        "album": "21"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "artists": ["Queen"],
+        "album": "A Night at the Opera"
+    },
+    {
+        "title": "Imagine",
+        "artists": ["John Lennon"],
+        "album": "Imagine"
+    },
+    {
+        "title": "Billie Jean",
+        "artists": ["Michael Jackson"],
+        "album": "Thriller"
+    },
+    {
+        "title": "Stairway to Heaven",
+        "artists": ["Led Zeppelin"],
+        "album": "Led Zeppelin IV"
+    },
+    {
+        "title": "Hotel California",
+        "artists": ["Eagles"],
+        "album": "Hotel California"
+    },
+    {
+        "title": "Like a Rolling Stone",
+        "artists": ["Bob Dylan"],
+        "album": "Highway 61 Revisited"
+    },
+    {
+        "title": "Yesterday",
+        "artists": ["The Beatles"],
+        "album": "Help!"
+    },
+    {
+        "title": "Thriller",
+        "artists": ["Michael Jackson"],
+        "album": "Thriller"
+    }
+]
