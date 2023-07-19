@@ -11,8 +11,8 @@ mongodb+srv://mycluster:<password>@cluster0.4bkzqig.mongodb.net/
 And then copy the url above and paste into the mongodb compass url and it will be
 mongodb+srv://mycluster:******@cluster0.4bkzqig.mongodb.net/
 
-Change/Replace the password/***** into "2804" without " 
-Ex :
+Change/Replace the password/***** into "2804" without "" 
+Example:
 mongodb+srv://mycluster:2804@cluster0.4bkzqig.mongodb.net/
 
 and Welcome to My Cluster Mongodb Atlas using MongoDb Compass
