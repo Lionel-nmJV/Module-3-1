@@ -3,6 +3,8 @@ Music Database README
 Introduction
 This project contains sample data and instructions to set up a MongoDB database for a music catalog. It includes three collections: "Songs," "Artists," and "Popular Songs." The data provided in this project is entirely fictional and is meant to serve as a starting point for creating a music-related database in MongoDB.
 
+I make this database using  MongoDb Compass & Atlas for the cloud
+
 If you want to check the database collection you can use your MongoDB Compass and then copy the connection string below
 mongodb+srv://mycluster:<password>@cluster0.4bkzqig.mongodb.net/
 
