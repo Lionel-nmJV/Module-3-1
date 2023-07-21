@@ -1,3 +1,4 @@
+**HOW TO RUN**
 Music Database README
 
 Introduction
@@ -21,6 +22,8 @@ after you connect into my db you can check database named "Music"
 and you can check there's 3 collections named "Songs", "artists", "popular songs"
 
 and check all the json file and dummy data.
+
+**IF WANT TO TRY RUNNING IN CLI MONGODB YOU HAVE TO PUT THIS CODE db.insertMany(Copy paste the json file like Songs/Artists/Popular Songs in here)**
 
 ENJOY REVIEWING
 
